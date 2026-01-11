@@ -1,5 +1,3 @@
-# DR-leaf
-
 # Dr. Leaf: Intelligent Plant Disease Detection System
 
 Dr. Leaf (also known as Dr. Feuille) is a specialized AI ecosystem that combines conversational natural language processing with advanced computer vision to diagnose plant diseases. The system integrates a local Large Language Model (LLM) with a dedicated deep learning classifier through a custom communication protocol.
